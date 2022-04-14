@@ -1,5 +1,5 @@
 # KlipperConfig
-Configuration for Klipper 3d Printer Firmware using FluiddPi for heavily modified Anycubic i3 Mega printer
+Configuration for Klipper 3d Printer Firmware using FluiddPi for heavily modified Anycubic i3 Mega Pro
 
 Hardware Modifications include:
 E3D Hemera Extruder and Hotend
